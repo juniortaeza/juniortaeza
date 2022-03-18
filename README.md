@@ -1,7 +1,10 @@
 <h3 align="center">
-  Hey everyone! I'm Junior
+  Hey everyone! I'm Junior 🙏🏼
 </h3>
 <img align="center" src="https://fcb-prod.s3.amazonaws.com/cklaf0jm700456ioigrbgigc0/attachments/ckwltf7yl09l0z2qr5vnd5mau-10011470fcbh-metaverse-header.jpg" />
+<p align="center">
+  I am a student at the University of Southern California studying Computer Science, and quite frankly, I am in love with the Metaverse.
+</p>
 
 <!--
 **juniortaeza/juniortaeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
