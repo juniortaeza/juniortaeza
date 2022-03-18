@@ -7,7 +7,7 @@
   <br><br>
   Aside from my journey of pursuing my education, I am currently in works of a [VERY TOP SECRET] project and I have high hopes of a late 2022 to early 2023 release.
   <br><br>
-  
+  Please contact me if you have any questions regarding my projects, journey, or practically anything that sparks your mind!
 </p>
 
 <!--
