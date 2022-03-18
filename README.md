@@ -1,6 +1,7 @@
-### Hey there! I'm Junior 🙏
-
-<a><img align="center" src="https://fcb-prod.s3.amazonaws.com/cklaf0jm700456ioigrbgigc0/attachments/ckwltf7yl09l0z2qr5vnd5mau-10011470fcbh-metaverse-header.jpg" /></a>
+<p align="center">
+  Hey everyone! I'm Junior.
+  <img src="https://fcb-prod.s3.amazonaws.com/cklaf0jm700456ioigrbgigc0/attachments/ckwltf7yl09l0z2qr5vnd5mau-10011470fcbh-metaverse-header.jpg" />
+</p>
 
 
 <!--
