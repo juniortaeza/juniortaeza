@@ -1,6 +1,6 @@
 ### Hey there! I'm Junior 🙏
 
-<a><img align="center" src="https://imageio.forbes.com/specials-images/imageserve/611148d8a4e320b4ed29e63e/3d-render--abstract-background--cosmic-landscape--round-portal--pink-blue-neon-light-/960x0.jpg?fit=bounds&format=jpg&width=960" height="300" width=300 /></a>
+<a><img align="center" src="https://fcb-prod.s3.amazonaws.com/cklaf0jm700456ioigrbgigc0/attachments/ckwltf7yl09l0z2qr5vnd5mau-10011470fcbh-metaverse-header.jpg" /></a>
 
 
 <!--
