@@ -4,6 +4,10 @@
 <img align="center" src="https://fcb-prod.s3.amazonaws.com/cklaf0jm700456ioigrbgigc0/attachments/ckwltf7yl09l0z2qr5vnd5mau-10011470fcbh-metaverse-header.jpg" />
 <p align="center">
   I am a student at the University of Southern California studying Computer Science, and quite frankly, I am in love with the Metaverse.
+  <br><br>
+  Aside from my journey of pursuing my education, I am currently in works of a [VERY TOP SECRET] project and I have high hopes of a late 2022 to early 2023 release.
+  <br><br>
+  
 </p>
 
 <!--
