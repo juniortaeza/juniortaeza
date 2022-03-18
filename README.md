@@ -1,6 +1,6 @@
 ### Hey there! I'm Junior 🙏
 
-<a><img align="center" src="https://imageio.forbes.com/specials-images/imageserve/611148d8a4e320b4ed29e63e/3d-render--abstract-background--cosmic-landscape--round-portal--pink-blue-neon-light-/960x0.jpg?fit=bounds&format=jpg&width=960" height="100" /></a>
+<a><img align="center" src="https://imageio.forbes.com/specials-images/imageserve/611148d8a4e320b4ed29e63e/3d-render--abstract-background--cosmic-landscape--round-portal--pink-blue-neon-light-/960x0.jpg?fit=bounds&format=jpg&width=960" height="300" width=300 /></a>
 
 
 <!--
