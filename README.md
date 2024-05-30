@@ -3,7 +3,7 @@
 </h3>
 <img align="center" src="https://fcb-prod.s3.amazonaws.com/cklaf0jm700456ioigrbgigc0/attachments/ckwltf7yl09l0z2qr5vnd5mau-10011470fcbh-metaverse-header.jpg" />
 <p align="center">
-  I am a student at the University of Southern California studying Computer Science, and I am a software developer.
+  I am a graduate of the University of Southern California with a B.Sc. in Computer Science, and I am a software developer.
   <br><br>
   Please contact me if you have any questions regarding my projects, journey, or practically anything that sparks your mind!
 </p>
